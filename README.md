@@ -1,1 +1,2 @@
-# bounce-balls
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
